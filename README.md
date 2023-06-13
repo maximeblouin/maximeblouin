@@ -1,4 +1,4 @@
-# Computational finance portfolio and code collection
+# My portfolio and code collection in Computational finance
 
 I'm making my implementations public. Some of them are on GitHub. The others are on my personal website www.maximeblouin.com.
 
@@ -21,6 +21,9 @@ I'm making my implementations public. Some of them are on GitHub. The others are
 * [Options, Futures, and Other Derivatives, 11th edition by John C. Hull](https://www.pearson.com/en-us/subject-catalog/p/options-futures-and-other-derivatives/P200000005938/9780136939917)
 
   * [Options, Futures, and Other Derivatives (utoronto.ca)](http://www-2.rotman.utoronto.ca/~hull/ofod/)
+
+* [Paul Wilmott on Quantitative Finance by Paul Wilmott](https://www.wiley.com/en-us/Paul+Wilmott+on+Quantitative+Finance%2C+3+Volume+Set%2C+2nd+Edition-p-9781118836835)
+
 
 ### Web
 
