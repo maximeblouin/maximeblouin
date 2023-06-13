@@ -2,6 +2,9 @@
 
 I'm making my implementations public. Some of them are on GitHub. The others are on my personal website www.maximeblouin.com.
 
+## Projet
+* [Code Collection Project](https://github.com/users/maximeblouin/projects/2/views/1)
+
 ## Code Collection Repos
 * [Matlab](https://github.com/maximeblouin/Computational-Finance-Matlab)
 * [Python 3.6](https://github.com/maximeblouin/Computational-Finance-Python36)
