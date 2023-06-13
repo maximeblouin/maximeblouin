@@ -1,6 +1,6 @@
 # Code collection in computational finance
 
-I'm making my implementations public. Some of them are on GitHub. The others are on my personal website www.maximeblouin.com.
+I'm making my implementations public. Some of them are on GitHub. The others are on my personal website [www.maximeblouin.com](http://www.maximeblouin.com/reports_for_quants/index.html).
 
 ## Projet
 * [Code Collection Project](https://github.com/users/maximeblouin/projects/2/views/1)
