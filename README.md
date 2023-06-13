@@ -11,7 +11,7 @@ I'm making my implementations public. Some of them are on GitHub. The others are
 
 * [Options, Futures, and Other Derivatives - Chapter 6 - Answers](https://github.com/maximeblouin/Computational-Finance-Python39/blob/main/john_hull/options_futures_derivatives/chap6_answer.ipynb)
 
-##Ressources
+## Ressources
 
 ### Books
 
