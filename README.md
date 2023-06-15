@@ -6,7 +6,7 @@ I'm making my implementations public. Some of them are on GitHub. The others are
 * [Code Collection Project](https://github.com/users/maximeblouin/projects/2/views/1)
 
 ## Repos
-* [Matlab](https://github.com/maximeblouin/Computational-Finance-Matlab)
+* [Matlab](https://github.com/maximeblouin/Computational-Finance/tree/main/Matlab)
 * [Python 3.6](https://github.com/maximeblouin/Computational-Finance-Python36)
 * [Python 3.9](https://github.com/maximeblouin/Computational-Finance-Python39)
 
